@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Task list
+
+## Description
+
+This is an easy list of activities that can be inserted and, depending on theirs status, marked as complited or not.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
